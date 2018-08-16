@@ -1,7 +1,7 @@
 # Minimum version can be no higher than 3.5 as Ubuntu package management uses this version.
 cmake_minimum_required(VERSION 3.5)
 
-project (EX11-ThreeIntegerSort)
+project (EX03-ThreeIntegerSort)
 
 set(SOURCE_PREFIX "threeintegersort")
 set(EXEC_NAME "ThreeIntegerSort")
