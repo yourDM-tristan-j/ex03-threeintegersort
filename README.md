@@ -37,7 +37,7 @@ In CLion in the project explorer, right-click the `include` directory
 and chose `New => C++ Header File`. 
 
 Under **Name** fill in
-windchillindex. CLion will add the `.h` extension. Press **OK**. You should now see the file `windchillindex.h` in
+threeintegersort. CLion will add the `.h` extension. Press **OK**. You should now see the file `windchillindex.h` in
 the project explorer in the `include` directory.
 
 Write your declaration of the `sort` in here in the `edu::vcccd::vc::csv13` namepspace.
