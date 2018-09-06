@@ -27,9 +27,9 @@
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-// A unit tester for EX05-String in CS140 at Santa Barbara City College.
+// A unit tester for EX03-ThreeIntegerSort in CSV13 at Ventura College.
 //
-// Author: ahknight@pipeline.sbcc.edu (Allan Knight)
+// Author: aknight@vcccd.edu (Allan Knight)
 
 
 // Includes for google test and the unit under test.
@@ -42,9 +42,7 @@
 #include "gtest/gtest.h"
 namespace {
 
-    using edu::sbcc::cs140::sort;
-
-// Tests edu::sbcc:cs140::String.
+    using edu::vcccd::vc::csv13::sort;
 
     using std::string;
 
